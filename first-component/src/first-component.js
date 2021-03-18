@@ -24,6 +24,7 @@ const NameList = () => {
 
   return (
     <div>
+      <p>Pokemon List</p>
       <ul>
         {pokemons.map((pokemon) => {
           return <li>{pokemon.name}</li>;
@@ -45,7 +46,6 @@ const FirstComponent = ({ name }) => {
   return (
     <div>
       <Button onClick={yeah}>CLICK MICH</Button>
-      <h1>Hello {name ? name : "world"}</h1>
       <NameList></NameList>
     </div>
   );
