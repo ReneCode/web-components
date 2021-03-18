@@ -1,0 +1,27 @@
+{
+  "name": "first-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --watch",
+    "lint": "eslint src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-loader": "^8.2.2",
+    "babel-preset-preact": "^2.0.0",
+    "preact": "^10.5.13",
+    "preact-custom-element": "^4.2.1",
+    "preact-render-to-string": "^5.1.16"
+  },
+  "devDependencies": {
+    "webpack": "^5.26.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
