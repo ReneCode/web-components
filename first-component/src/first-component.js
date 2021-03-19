@@ -24,7 +24,7 @@ const NameList = () => {
 
   return (
     <div>
-      <p>Pokemon List</p>
+      <div>Pokemon List</div>
       <ul>
         {pokemons.map((pokemon) => {
           return <li>{pokemon.name}</li>;
@@ -38,7 +38,7 @@ const Button = ({ children, onClick }) => {
   return <button onClick={onClick}>{children}</button>;
 };
 
-const FirstComponent = ({ name }) => {
+export const FirstComponent = ({ name }) => {
   const yeah = () => {
     console.log("yeah!");
   };

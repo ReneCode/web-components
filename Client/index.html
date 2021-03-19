@@ -4,20 +4,22 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="http://localhost:5501/dist/bundle.js"></script>
+  <script type="module" src="http://localhost:5501/dist/bundle.js"></script>
   <script src="./script.js"></script>
   <title>Client web components</title>
+  <style>
+    div {
+      background-color: yellow;
+    }
+  </style>
 </head>
 <body>
-  <p>Client using external web components</p>
+  <div>Client using external web components</div>
+  <hr>
   <epl-projects></epl-projects>
-  <x-first xname="relang"></x-first>
+  <!-- <x-first xname="relang"></x-first> -->
 
-
-  <script>
-  </script>
-
-
-  <p>that's me</p>
+<hr>
+<div>end</div>
 </body>
 </html>
