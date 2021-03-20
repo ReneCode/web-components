@@ -4,20 +4,19 @@ import { useEffect, useState } from "preact/hooks";
 import TreeNodes from "./TreeNodes";
 import { apiGetProjects, apiGetFolder } from "./api";
 
-const Navigator = () => {
+const Navigator = ({ host, token }) => {
   const [projects, setProjects] = useState([]);
   const [root, setRoot] = useState({ folders: [], projects: [] });
 
   useEffect(() => {
     const loadProjects = async () => {
-      const result = await apiGetProjects();
+      const result = await apiGetProjects({ host, token });
       // console.log(result);
 
       setProjects(result);
     };
     const loadFolders = async () => {
-      const result = await apiGetFolder();
-      console.log(">>>", result);
+      const result = await apiGetFolder({ host, token });
 
       const a = {
         folders: result.childFolders

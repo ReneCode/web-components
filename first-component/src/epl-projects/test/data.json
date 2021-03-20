@@ -1,0 +1,752 @@
+{
+  "name": "root",
+  "id": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+  "displayType": "Folder",
+  "projectIds": [
+    "9a2ddef5-2ad4-4663-b331-86898dbb0c0a",
+    "01e746c9-e7a1-4cb9-9a4b-448129652355",
+    "0024061a-2e61-4b57-84b7-c6babbb27a47",
+    "f3e9a705-9dc1-4453-b09f-1a34aa60a45f",
+    "db49029c-83c8-44b2-9987-3007ed07ecbc",
+    "406f245f-06d3-4944-9088-e03d92e17576",
+    "2c6ae79b-954e-44d0-affe-33353eacca22"
+  ],
+  "projects": [],
+  "childFolders": [
+    {
+      "name": "GOU",
+      "id": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": ["0c6a3091-2ddd-4b95-b3d9-16d0016d927f"],
+      "projects": [],
+      "childFolders": [
+        {
+          "name": "TEST",
+          "id": "e93c5bf8-0e53-4558-bb39-001ed3cc68dd",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": ["530438cb-29cd-429a-b57f-86237b1aede5"],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-09-10T08:12:19.5017198Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+            "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+          }
+        },
+        {
+          "name": "TEST2",
+          "id": "ec415934-3017-466e-bc1e-235067023f40",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [
+            {
+              "name": "TEST3",
+              "id": "f18126b0-54e0-4e98-946f-d340eac73f4d",
+              "parentId": "ec415934-3017-466e-bc1e-235067023f40",
+              "displayType": "Folder",
+              "projectIds": [],
+              "projects": [],
+              "childFolders": [
+                {
+                  "name": "TEST4",
+                  "id": "44148adf-eaf2-41b3-b628-77a74f8008d1",
+                  "parentId": "f18126b0-54e0-4e98-946f-d340eac73f4d",
+                  "displayType": "Folder",
+                  "projectIds": ["2bcb113f-8a11-412d-9158-49728f29a5d3"],
+                  "projects": [],
+                  "childFolders": [
+                    {
+                      "name": "TEST5",
+                      "id": "54600a94-218e-4b91-bd49-553e85f8c971",
+                      "parentId": "44148adf-eaf2-41b3-b628-77a74f8008d1",
+                      "displayType": "Folder",
+                      "projectIds": [],
+                      "projects": [],
+                      "childFolders": [
+                        {
+                          "name": "TEST6",
+                          "id": "b2f3c774-7d8a-48ae-be2f-ab0052cd22dd",
+                          "parentId": "54600a94-218e-4b91-bd49-553e85f8c971",
+                          "displayType": "Folder",
+                          "projectIds": [],
+                          "projects": [],
+                          "childFolders": [
+                            {
+                              "name": "TEST7",
+                              "id": "23bdfb33-5dd4-4a51-97da-ee4b80d045e2",
+                              "parentId": "b2f3c774-7d8a-48ae-be2f-ab0052cd22dd",
+                              "displayType": "Folder",
+                              "projectIds": [],
+                              "projects": [],
+                              "childFolders": [
+                                {
+                                  "name": "TEST8",
+                                  "id": "a1dccd74-5eda-46ea-a669-0f23eb1f872b",
+                                  "parentId": "23bdfb33-5dd4-4a51-97da-ee4b80d045e2",
+                                  "displayType": "Folder",
+                                  "projectIds": [],
+                                  "projects": [],
+                                  "childFolders": [
+                                    {
+                                      "name": "TEST9",
+                                      "id": "41c76052-6bba-462e-af35-34dfb9666314",
+                                      "parentId": "a1dccd74-5eda-46ea-a669-0f23eb1f872b",
+                                      "displayType": "Folder",
+                                      "projectIds": [],
+                                      "projects": [],
+                                      "childFolders": [
+                                        {
+                                          "name": "TEST10",
+                                          "id": "8207251c-8ada-4e5b-90a2-dd9994fccde5",
+                                          "parentId": "41c76052-6bba-462e-af35-34dfb9666314",
+                                          "displayType": "Folder",
+                                          "projectIds": [],
+                                          "projects": [],
+                                          "childFolders": [],
+                                          "creationDate": "2020-10-16T09:26:10.5060493Z",
+                                          "userIdentityInformation": {
+                                            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                                            "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                                            "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                                          }
+                                        }
+                                      ],
+                                      "creationDate": "2020-10-16T09:25:59.2692053Z",
+                                      "userIdentityInformation": {
+                                        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                                        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                                        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                                      }
+                                    }
+                                  ],
+                                  "creationDate": "2020-10-16T09:25:47.8147973Z",
+                                  "userIdentityInformation": {
+                                    "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                                    "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                                    "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                                  }
+                                }
+                              ],
+                              "creationDate": "2020-10-16T09:25:36.5423366Z",
+                              "userIdentityInformation": {
+                                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                                "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                                "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                              }
+                            }
+                          ],
+                          "creationDate": "2020-10-16T09:25:06.6861699Z",
+                          "userIdentityInformation": {
+                            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                            "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                            "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                          }
+                        }
+                      ],
+                      "creationDate": "2020-10-16T09:24:52.7592247Z",
+                      "userIdentityInformation": {
+                        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                      }
+                    }
+                  ],
+                  "creationDate": "2020-09-16T09:21:45.9214008Z",
+                  "userIdentityInformation": {
+                    "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                    "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                    "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+                  }
+                }
+              ],
+              "creationDate": "2020-09-16T09:21:18.2878047Z",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+                "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+              }
+            }
+          ],
+          "creationDate": "2020-09-16T09:20:15.4818895Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+            "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+          }
+        },
+        {
+          "name": "TEST2",
+          "id": "7401c210-5b61-42b4-b49c-e799a79648c8",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [
+            {
+              "name": "TEST3",
+              "id": "d8cfc723-e882-44aa-8b1d-ad520788ff6a",
+              "parentId": "7401c210-5b61-42b4-b49c-e799a79648c8",
+              "displayType": "Folder",
+              "projectIds": [],
+              "projects": [],
+              "childFolders": [
+                {
+                  "name": "TEST4",
+                  "id": "0666ca14-c865-46c5-a877-3fd786ccccf7",
+                  "parentId": "d8cfc723-e882-44aa-8b1d-ad520788ff6a",
+                  "displayType": "Folder",
+                  "projectIds": [],
+                  "projects": [],
+                  "childFolders": [],
+                  "creationDate": "2020-09-16T09:22:22.8452857Z",
+                  "userIdentityInformation": {
+                    "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                    "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+                    "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+                  }
+                }
+              ],
+              "creationDate": "2020-09-16T09:22:22.8452319Z",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+                "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+              }
+            }
+          ],
+          "creationDate": "2020-09-16T09:22:22.845178Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        },
+        {
+          "name": "TEST2",
+          "id": "06ecc311-f56b-4bba-8ef7-bbd27c33867b",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [
+            {
+              "name": "TEST3",
+              "id": "fbd64199-dc71-4bc5-960a-dd8e6a164243",
+              "parentId": "06ecc311-f56b-4bba-8ef7-bbd27c33867b",
+              "displayType": "Folder",
+              "projectIds": [],
+              "projects": [],
+              "childFolders": [],
+              "creationDate": "2020-09-16T16:50:21.9036979Z",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+                "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+              }
+            }
+          ],
+          "creationDate": "2020-09-16T16:50:21.9036207Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        },
+        {
+          "name": "TEST2",
+          "id": "b04f1150-26ed-4eeb-8638-c535764e09a1",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-09-17T07:00:15.0480006Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        },
+        {
+          "name": "TEST2",
+          "id": "19b8abe8-79cc-4b35-bd8b-4ee1953bd014",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-09-17T07:15:19.2706317Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        },
+        {
+          "name": "TEST2",
+          "id": "1de37174-8a1a-4e98-844a-db7397e22bd2",
+          "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [
+            {
+              "name": "TEST3",
+              "id": "4519be68-286b-4abc-9255-58763df9a6cc",
+              "parentId": "1de37174-8a1a-4e98-844a-db7397e22bd2",
+              "displayType": "Folder",
+              "projectIds": [],
+              "projects": [],
+              "childFolders": [
+                {
+                  "name": "TEST4",
+                  "id": "41b2e458-db12-49c4-b33a-113565c6716a",
+                  "parentId": "4519be68-286b-4abc-9255-58763df9a6cc",
+                  "displayType": "Folder",
+                  "projectIds": [],
+                  "projects": [],
+                  "childFolders": [],
+                  "creationDate": "2020-09-18T07:04:49.7242109Z",
+                  "userIdentityInformation": {
+                    "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                    "organizationUserId": "bf280310-d016-47fc-9044-6ef9a2c3e074",
+                    "userId": "b89498f0-5795-444d-bee7-5cf379822328"
+                  }
+                }
+              ],
+              "creationDate": "2020-09-18T07:04:49.7241742Z",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "bf280310-d016-47fc-9044-6ef9a2c3e074",
+                "userId": "b89498f0-5795-444d-bee7-5cf379822328"
+              }
+            }
+          ],
+          "creationDate": "2020-09-18T07:04:49.7241222Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "bf280310-d016-47fc-9044-6ef9a2c3e074",
+            "userId": "b89498f0-5795-444d-bee7-5cf379822328"
+          }
+        }
+      ],
+      "creationDate": "2020-09-10T07:43:55.2751541Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+      }
+    },
+    {
+      "name": "PELTNERT",
+      "id": "440a827f-7941-4643-a71a-be04dbdae618",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": ["aaa6fefc-30ca-40cd-b5d8-baa8bec0b843"],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-09-11T11:45:09.8415615Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+        "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+      }
+    },
+    {
+      "name": "veh",
+      "id": "fe5a316d-9116-4466-b6ea-13a9a207e095",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-09-15T13:10:09.8486977Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "de51abec-24d3-4abd-94b8-5ff7a2129ebd",
+        "userId": "e4775632-9109-4c14-a8d7-0786979d9088"
+      }
+    },
+    {
+      "name": "FolderForProject",
+      "id": "868d4c88-5c64-4de0-9e3d-85e54c4a7978",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-09-16T11:33:28.3463181Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+        "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+      }
+    },
+    {
+      "name": "Review",
+      "id": "8864b3ce-edc0-47e3-b1e8-94887eb179d7",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [
+        {
+          "name": "Sprint 19",
+          "id": "3608bd56-7621-4cb2-8707-bed8e6bb4741",
+          "parentId": "8864b3ce-edc0-47e3-b1e8-94887eb179d7",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-09-21T14:25:13.1940616Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+            "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+          }
+        },
+        {
+          "name": "Sprint 20",
+          "id": "af5cf673-3a37-4a8f-bc29-a9387d78b002",
+          "parentId": "8864b3ce-edc0-47e3-b1e8-94887eb179d7",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-10-05T15:40:03.1180039Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        },
+        {
+          "name": "empty-folder",
+          "id": "c2168748-8e61-40d2-a6f0-d44a215d1920",
+          "parentId": "8864b3ce-edc0-47e3-b1e8-94887eb179d7",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-10-05T16:03:36.7924972Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        },
+        {
+          "name": "Sprint 24",
+          "id": "da917ffc-3954-4834-82fa-81753c3e8fb7",
+          "parentId": "8864b3ce-edc0-47e3-b1e8-94887eb179d7",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-01-25T15:37:17.6078205Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        },
+        {
+          "name": "Sprint 02",
+          "id": "0e8cdd5a-5c8f-4b92-b10c-0a322562cf44",
+          "parentId": "8864b3ce-edc0-47e3-b1e8-94887eb179d7",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-01-25T15:37:33.9130921Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        }
+      ],
+      "creationDate": "2020-09-21T14:24:39.8846782Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+      }
+    },
+    {
+      "name": "QA",
+      "id": "0289e914-d9e1-49c9-a594-d9eca741049f",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": ["f8c55ca1-658a-4f9c-81c0-fe3719f7978f"],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-09-28T11:35:20.8488347Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "bf280310-d016-47fc-9044-6ef9a2c3e074",
+        "userId": "b89498f0-5795-444d-bee7-5cf379822328"
+      }
+    },
+    {
+      "name": "QA_test",
+      "id": "ab9b7b55-cc39-47ca-b780-0b557de3e3dc",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-09-28T12:16:21.1307094Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "bf280310-d016-47fc-9044-6ef9a2c3e074",
+        "userId": "b89498f0-5795-444d-bee7-5cf379822328"
+      }
+    },
+    {
+      "name": "LEER",
+      "id": "26bce63d-6283-4fc6-822f-9b6c42fa7861",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-09-30T13:32:45.8868311Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+      }
+    },
+    {
+      "name": "LAG",
+      "id": "71de6e21-124b-4865-9f01-938a4fbfa232",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [
+        "4531e79b-8ea2-4a47-a15d-d81a0a83bc82",
+        "f56f379f-ce3f-4fd5-b481-4cbd5dc01956",
+        "e12d8dc4-9979-48b9-92a5-6736777ceddd",
+        "fad6c328-ff06-4de6-a869-d2bfea083f85"
+      ],
+      "projects": [],
+      "childFolders": [
+        {
+          "name": "lag-subfolder",
+          "id": "c1aaf791-22cc-49b5-8793-395344c86974",
+          "parentId": "71de6e21-124b-4865-9f01-938a4fbfa232",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-03-20T10:40:48.4086476Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          }
+        }
+      ],
+      "creationDate": "2020-10-01T07:52:17.7459164Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      }
+    },
+    {
+      "name": "empty",
+      "id": "0c0a13f8-6cb9-4141-9976-e39cb3e20700",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2020-10-01T13:34:55.6122721Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+        "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+      }
+    },
+    {
+      "name": "LAP",
+      "id": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [
+        {
+          "name": "400 V Versorgung Gleichrichter",
+          "id": "beb7d80a-b354-4e05-9e06-a344bb6cc381",
+          "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+          "displayType": "Folder",
+          "projectIds": ["71014322-6df1-4124-9f31-f605c3c2c886"],
+          "projects": [],
+          "childFolders": [
+            {
+              "name": "Versorgung Gleichrichter Betriebsmittelliste",
+              "id": "c6ee8342-6ad0-432e-b516-7f76f1d8e959",
+              "parentId": "beb7d80a-b354-4e05-9e06-a344bb6cc381",
+              "displayType": "Folder",
+              "projectIds": [],
+              "projects": [],
+              "childFolders": [],
+              "creationDate": "2020-10-23T08:29:37.9766973Z",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+                "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+              }
+            }
+          ],
+          "creationDate": "2020-10-23T08:27:52.4809449Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        },
+        {
+          "name": "Projektvorlage mit Kennzeichnungsstruktur gemäß IEC-Norm",
+          "id": "dc80d0ef-76f1-4f28-a08e-771e08dd41dd",
+          "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-10-23T08:42:19.7326125Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+            "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+          }
+        },
+        {
+          "name": "ctest",
+          "id": "a76f6a02-823c-4a44-adfe-9b5b1200778d",
+          "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-01-28T07:52:47.7673453Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        },
+        {
+          "name": "1 blank",
+          "id": "9ec6b648-84e4-4c3c-b75f-c35edaa19c59",
+          "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-02-12T08:20:04.9910697Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        },
+        {
+          "name": "2  blanks",
+          "id": "b4d935cd-4652-46aa-ab1b-bac1c3d682e6",
+          "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-02-12T08:20:24.2177452Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        },
+        {
+          "name": "10          blanks",
+          "id": "4b41e9e0-7acd-4d7d-8bbe-d77a6e0fe745",
+          "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2021-02-12T08:20:44.255798Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+            "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+          }
+        }
+      ],
+      "creationDate": "2020-10-12T13:47:11.9744971Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+        "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+      }
+    },
+    {
+      "name": "null",
+      "id": "048c0357-43c2-4594-bba4-63f04b99e3ba",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [
+        {
+          "name": "ok",
+          "id": "1a8302ac-fcc6-4408-9b26-f0356960cca3",
+          "parentId": "048c0357-43c2-4594-bba4-63f04b99e3ba",
+          "displayType": "Folder",
+          "projectIds": [],
+          "projects": [],
+          "childFolders": [],
+          "creationDate": "2020-11-16T13:22:46.4735499Z",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+            "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+          }
+        }
+      ],
+      "creationDate": "2020-11-16T13:22:46.4734744Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+        "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+      }
+    },
+    {
+      "name": "tester2",
+      "id": "7c567cd6-17e0-457c-ad4e-460ab72bf404",
+      "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
+      "displayType": "Folder",
+      "projectIds": [],
+      "projects": [],
+      "childFolders": [],
+      "creationDate": "2021-03-11T09:26:05.1351916Z",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "bf280310-d016-47fc-9044-6ef9a2c3e074",
+        "userId": "b89498f0-5795-444d-bee7-5cf379822328"
+      }
+    }
+  ],
+  "creationDate": "2020-09-09T12:57:30.3236027Z",
+  "userIdentityInformation": {
+    "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+    "organizationUserId": "3e3d83ee-0402-45b8-ad34-f2dbd886d3e4",
+    "userId": "459800ea-1fd1-41b2-a8d0-fee9783f6c87"
+  }
+}

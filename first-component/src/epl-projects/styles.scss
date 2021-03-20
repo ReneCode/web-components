@@ -1,12 +1,13 @@
 div {
+  background-color: orange;
 }
 
 .folder {
   padding: 2px;
   background-color: gray;
-}
-.folder:hover {
-  cursor: pointer;
+  :hover {
+    cursor: pointer;
+  }
 }
 
 .project {

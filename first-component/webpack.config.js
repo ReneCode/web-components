@@ -20,10 +20,23 @@ module.exports = {
         use: { loader: "babel-loader" },
       },
       {
-        test: /.css$/,
+        test: /\.s[ac]ss$/i,
         exclude: /node_modules/,
-        use: ["css-loader"],
+        use: [
+          // Creates `style` nodes from JS strings
+          // "style-loader",
+          // Translates CSS into CommonJS
+          // "css-loader",
+          "raw-loader",
+          // Compiles Sass to CSS
+          "sass-loader",
+        ],
       },
+      // {
+      //   test: /.css$/,
+      //   exclude: /node_modules/,
+      //   use: ["css-loader"],
+      // },
     ],
   },
 };

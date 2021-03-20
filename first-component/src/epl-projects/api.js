@@ -1,12 +1,12 @@
-const host = "https://apireview.dev.eplan.global";
+// const host = "https://apireview.dev.eplan.global";
 
-export const apiGetProjects = async () => {
+export const apiGetProjects = async ({ host, token }) => {
   try {
     const url = `${host}/projectStoreService/v1.0/projects`;
     const response = await fetch(url, {
       method: "GET",
       headers: {
-        Authorization: accessToken,
+        Authorization: token,
       },
     });
     const json = await response.json();
@@ -18,13 +18,13 @@ export const apiGetProjects = async () => {
   }
 };
 
-export const apiGetFolder = async () => {
+export const apiGetFolder = async ({ host, token }) => {
   try {
     const url = `${host}/projectStoreService/v1.0/folders`;
     const response = await fetch(url, {
       method: "GET",
       headers: {
-        Authorization: accessToken,
+        Authorization: token,
       },
     });
     const json = await response.json();
