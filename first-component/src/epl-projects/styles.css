@@ -1,0 +1,14 @@
+div {
+}
+
+.folder {
+  padding: 2px;
+  background-color: gray;
+}
+.folder:hover {
+  cursor: pointer;
+}
+
+.project {
+  background-color: lightgray;
+}

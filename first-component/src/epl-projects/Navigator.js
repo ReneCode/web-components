@@ -1,12 +1,12 @@
 import { h } from "preact";
 import { useEffect, useState } from "preact/hooks";
 
-import { ProjectNodes } from "./ProjectNodes";
+import TreeNodes from "./TreeNodes";
 import { apiGetProjects, apiGetFolder } from "./api";
 
 const Navigator = () => {
   const [projects, setProjects] = useState([]);
-  const [root, setRoot] = useState({ folders: [] });
+  const [root, setRoot] = useState({ folders: [], projects: [] });
 
   useEffect(() => {
     const loadProjects = async () => {
@@ -17,11 +17,26 @@ const Navigator = () => {
     };
     const loadFolders = async () => {
       const result = await apiGetFolder();
-      console.log(result);
+      console.log(">>>", result);
+
       const a = {
-        folders: result.childFolders.sort((a, b) =>
-          a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1
-        ),
+        folders: result.childFolders
+          .map((folder) => {
+            return {
+              ...folder,
+              showChildren: false,
+            };
+          })
+          .sort((a, b) => {
+            return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1;
+          }),
+        projects: result.projects
+          .map((project) => {
+            return { name: project.name };
+          })
+          .sort((a, b) => {
+            return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1;
+          }),
       };
 
       setRoot(a);
@@ -33,10 +48,7 @@ const Navigator = () => {
 
   return (
     <div>
-      <ProjectNodes folders={root.childFolders}></ProjectNodes>
-      {root.folders.map((folder) => {
-        return <div>{folder.name}</div>;
-      })}
+      <TreeNodes folders={root.folders} projects={root.projects}></TreeNodes>
     </div>
   );
 };
