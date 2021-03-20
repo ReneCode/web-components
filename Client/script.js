@@ -1,7 +1,7 @@
 // Hello();
 
 const onClick = (val) => {
-  console.log("GOT CLICK", val);
+  console.log("GOT CLICK", val.detail);
 };
 
 window.onload = () => {

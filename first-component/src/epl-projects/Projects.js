@@ -9,16 +9,11 @@ import Navigator from "./Navigator";
 // }`;
 
 const Projects = ({ host, token, onSelect }) => {
-  const onClick = () => {
-    if (onSelect) {
-      onSelect({ project: "from web-component" });
-    }
-  };
   return (
     <div>
       {/* <Header name={name}></Header> */}
-      <button onClick={onClick}>CLICK HERE</button>
-      <Navigator host={host} token={token}></Navigator>
+      {/* <button onClick={onClick}>CLICK HERE</button> */}
+      <Navigator host={host} token={token} onSelect={onSelect}></Navigator>
     </div>
   );
 };

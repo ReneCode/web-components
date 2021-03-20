@@ -32,12 +32,9 @@ class WebComponent extends HTMLElement {
     switch (name) {
       case "token":
       case "host":
-        console.log("change", name, newValue);
         break;
     }
     if (this.host && this.token) {
-      console.log(">>", this.onSelect);
-
       this.render();
     }
   }
@@ -54,13 +51,6 @@ class WebComponent extends HTMLElement {
   set host(value) {
     this.setAttribute("host", value);
   }
-
-  // get onSelect() {
-  //   return this.getAttribute("onSelect");
-  // }
-  // set onSelect(value) {
-  //   this.setAttribute("onSelect", value);
-  // }
 
   connectedCallback() {
     console.log("connect");

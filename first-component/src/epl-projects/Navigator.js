@@ -4,7 +4,7 @@ import { useEffect, useState } from "preact/hooks";
 import TreeNodes from "./TreeNodes";
 import { apiGetProjects, apiGetFolder } from "./api";
 
-const Navigator = ({ host, token }) => {
+const Navigator = ({ host, token, onSelect }) => {
   const [projects, setProjects] = useState([]);
   const [root, setRoot] = useState({ folders: [], projects: [] });
 
@@ -23,6 +23,7 @@ const Navigator = ({ host, token }) => {
           .map((folder) => {
             return {
               ...folder,
+              level: 0,
               showChildren: false,
             };
           })
@@ -30,9 +31,9 @@ const Navigator = ({ host, token }) => {
             return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1;
           }),
         projects: result.projects
-          .map((project) => {
-            return { name: project.name };
-          })
+          // .map((project) => {
+          //   return { name: project.name };
+          // })
           .sort((a, b) => {
             return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1;
           }),
@@ -47,7 +48,12 @@ const Navigator = ({ host, token }) => {
 
   return (
     <div>
-      <TreeNodes folders={root.folders} projects={root.projects}></TreeNodes>
+      <TreeNodes
+        level={0}
+        folders={root.folders}
+        projects={root.projects}
+        onSelect={onSelect}
+      ></TreeNodes>
     </div>
   );
 };

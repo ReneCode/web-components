@@ -2,8 +2,10 @@ import { h } from "preact";
 import { useEffect, useState } from "preact/hooks";
 
 import TreeNodes from "./TreeNodes";
+import Gap from "./Gap";
+import OpenClose from "./OpenClose";
 
-const FolderNode = ({ folder }) => {
+const FolderNode = ({ level, folder, onSelect }) => {
   const [showChildren, setShowChildren] = useState(false);
 
   useEffect(() => {
@@ -11,18 +13,21 @@ const FolderNode = ({ folder }) => {
   }, [folder]);
 
   const clickFolder = () => {
-    console.log("folder-click", folder);
     setShowChildren(!showChildren);
+    onSelect(folder);
   };
 
   return (
     <div>
       <div class="folder" onClick={clickFolder}>
-        <span>{showChildren ? "-" : ">"}</span>
-        <span>{folder.name}</span>
+        <Gap level={level}></Gap>
+        <OpenClose close={showChildren}></OpenClose>
+        <div>{folder.name}</div>
       </div>
       {showChildren && (
         <TreeNodes
+          level={level + 1}
+          onSelect={onSelect}
           folders={folder.childFolders}
           projects={folder.projects}
         ></TreeNodes>

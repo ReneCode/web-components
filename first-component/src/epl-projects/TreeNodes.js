@@ -1,15 +1,28 @@
 import { h } from "preact";
 
 import FolderNode from "./FolderNode";
+import ProjectNode from "./ProjectNode";
 
-const TreeNodes = ({ folders, projects }) => {
+const TreeNodes = ({ level, folders, projects, onSelect }) => {
   return (
     <div>
       {folders.map((folder) => {
-        return <FolderNode folder={folder}></FolderNode>;
+        return (
+          <FolderNode
+            level={level}
+            folder={folder}
+            onSelect={onSelect}
+          ></FolderNode>
+        );
       })}
       {projects.map((project) => {
-        return <div class="project">{project.name}</div>;
+        return (
+          <ProjectNode
+            level={level}
+            project={project}
+            onSelect={onSelect}
+          ></ProjectNode>
+        );
       })}
     </div>
   );

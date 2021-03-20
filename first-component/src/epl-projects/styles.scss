@@ -1,8 +1,6 @@
-div {
-  background-color: orange;
-}
-
 .folder {
+  display: flex;
+  flex-direction: row;
   padding: 2px;
   background-color: gray;
   :hover {
@@ -10,6 +8,20 @@ div {
   }
 }
 
+.gap {
+  width: 10px;
+  background-color: transparent;
+}
+
+.open-close {
+  width: 10px;
+}
+
 .project {
+  display: flex;
+  flex-direction: row;
   background-color: lightgray;
+  :hover {
+    cursor: pointer;
+  }
 }
