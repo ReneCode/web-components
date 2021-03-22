@@ -8,13 +8,14 @@ import Navigator from "./Navigator";
 //   background-color: aquamarine;
 // }`;
 
-const Projects = ({ host, token, onSelect }) => {
+const Projects = ({ host, token, onSelectFolder, onSelectProject }) => {
   return (
-    <div>
-      {/* <Header name={name}></Header> */}
-      {/* <button onClick={onClick}>CLICK HERE</button> */}
-      <Navigator host={host} token={token} onSelect={onSelect}></Navigator>
-    </div>
+    <Navigator
+      host={host}
+      token={token}
+      onSelectFolder={onSelectFolder}
+      onSelectProject={onSelectProject}
+    ></Navigator>
   );
 };
 

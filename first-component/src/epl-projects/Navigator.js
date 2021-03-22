@@ -4,7 +4,7 @@ import { useEffect, useState } from "preact/hooks";
 import TreeNodes from "./TreeNodes";
 import { apiGetProjects, apiGetFolder } from "./api";
 
-const Navigator = ({ host, token, onSelect }) => {
+const Navigator = ({ host, token, onSelectFolder, onSelectProject }) => {
   const [projects, setProjects] = useState([]);
   const [root, setRoot] = useState({ folders: [], projects: [] });
 
@@ -47,12 +47,13 @@ const Navigator = ({ host, token, onSelect }) => {
   }, []);
 
   return (
-    <div>
+    <div class="navigator">
       <TreeNodes
         level={0}
         folders={root.folders}
         projects={root.projects}
-        onSelect={onSelect}
+        onSelectFolder={onSelectFolder}
+        onSelectProject={onSelectProject}
       ></TreeNodes>
     </div>
   );

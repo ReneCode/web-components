@@ -62,8 +62,11 @@ class WebComponent extends HTMLElement {
       <Projects
         host={this.host}
         token={this.token}
-        onSelect={(e) =>
-          this.dispatchEvent(new CustomEvent("select", { detail: e }))
+        onSelectFolder={(e) =>
+          this.dispatchEvent(new CustomEvent("selectFolder", { detail: e }))
+        }
+        onSelectProject={(e) =>
+          this.dispatchEvent(new CustomEvent("selectProject", { detail: e }))
         }
       ></Projects>,
       this.shadowRoot

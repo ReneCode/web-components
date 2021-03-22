@@ -10,12 +10,12 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
   },
   resolve: {
-    extensions: [".css", ".js"],
+    extensions: [".css", ".js", ".jsx"],
   },
   module: {
     rules: [
       {
-        test: /.js$/,
+        test: /\.jsx?$/,
         exclude: /node_modules/,
         use: { loader: "babel-loader" },
       },

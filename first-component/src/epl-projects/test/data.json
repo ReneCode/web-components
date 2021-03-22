@@ -11,7 +11,281 @@
     "406f245f-06d3-4944-9088-e03d92e17576",
     "2c6ae79b-954e-44d0-affe-33353eacca22"
   ],
-  "projects": [],
+  "projects": [
+    {
+      "name": "new-prj",
+      "id": "9a2ddef5-2ad4-4663-b331-86898dbb0c0a",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "creationDate": "2020-09-01T13:29:31.7613883Z",
+      "lastEdited": "2020-09-01T13:29:31.7613927Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "isSharedProject": false,
+      "blobInfos": [],
+      "externalReferences": [
+        {
+          "applicationName": "eView",
+          "externalId": "452574b3-832b-4c75-a2cc-9584b2afe9a9",
+          "externalUrl": "https://eviewreview.dev.eplan.global?project_property=10000&organizationid=6d6cb5cd-90b8-4f86-b173-828dbf6b9b12&project_value=new-prj"
+        }
+      ]
+    },
+    {
+      "name": "ESS_Sample_Project-LAG",
+      "id": "01e746c9-e7a1-4cb9-9a4b-448129652355",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "creationDate": "2020-11-16T13:22:45.190303Z",
+      "lastEdited": "2020-11-16T13:22:45.1903081Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "isSharedProject": false,
+      "blobInfos": [],
+      "sharingInfos": [
+        {
+          "userId": "99e19f04-37e4-4b36-8e6a-032691c45e4d",
+          "projectId": "01e746c9-e7a1-4cb9-9a4b-448129652355",
+          "role": "Designer",
+          "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+          "organizationUserId": "46567dcb-3a77-490b-8b57-d3d2f96705a2",
+          "sharer": "509fe4c8-191a-44aa-8368-3931ad73a528"
+        }
+      ],
+      "externalReferences": [
+        {
+          "applicationName": "eView",
+          "externalId": "807ce919-2de9-4b08-9d98-a63943435675",
+          "externalUrl": "https://eviewreview.dev.eplan.global?project_property=10000&organizationid=6d6cb5cd-90b8-4f86-b173-828dbf6b9b12&project_value=ESS_Sample_Project-LAG"
+        }
+      ]
+    },
+    {
+      "name": "ESS_Sample_Project_DE_EN_RU",
+      "id": "0024061a-2e61-4b57-84b7-c6babbb27a47",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+      },
+      "creationDate": "2020-12-03T14:39:09.716486Z",
+      "lastEdited": "2020-12-03T14:39:09.7164895Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "84854f78-a0c7-42b2-bd0d-f049623fea7b",
+        "userId": "9ef2dca8-6ca5-4c76-b095-f9d8dd5536de"
+      },
+      "isSharedProject": false,
+      "blobInfos": [],
+      "sharingInfos": [
+        {
+          "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9",
+          "projectId": "0024061a-2e61-4b57-84b7-c6babbb27a47",
+          "role": "Designer",
+          "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+          "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+          "sharer": "84854f78-a0c7-42b2-bd0d-f049623fea7b"
+        }
+      ],
+      "externalReferences": [
+        {
+          "applicationName": "eView",
+          "externalId": "562861f6-58e6-459e-a768-29771582dcc7",
+          "externalUrl": "https://eviewreview.dev.eplan.global?project_property=10000&organizationid=6d6cb5cd-90b8-4f86-b173-828dbf6b9b12&project_value=ESS_Sample_Project_DE_EN_RU"
+        }
+      ]
+    },
+    {
+      "name": "ESS_Sample_Project_Veh",
+      "id": "f3e9a705-9dc1-4453-b09f-1a34aa60a45f",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "de51abec-24d3-4abd-94b8-5ff7a2129ebd",
+        "userId": "e4775632-9109-4c14-a8d7-0786979d9088"
+      },
+      "creationDate": "2020-12-08T11:25:50.533779Z",
+      "lastEdited": "2020-12-08T11:25:50.5337791Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "de51abec-24d3-4abd-94b8-5ff7a2129ebd",
+        "userId": "e4775632-9109-4c14-a8d7-0786979d9088"
+      },
+      "isSharedProject": false,
+      "blobInfos": [],
+      "sharingInfos": [
+        {
+          "userId": "c2a199da-ab4e-4aaa-b523-26cdbb667dcc",
+          "projectId": "f3e9a705-9dc1-4453-b09f-1a34aa60a45f",
+          "role": "Designer",
+          "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+          "organizationUserId": "5d3f3969-df46-49e0-9032-79d0afddc63d",
+          "sharer": "de51abec-24d3-4abd-94b8-5ff7a2129ebd"
+        },
+        {
+          "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9",
+          "projectId": "f3e9a705-9dc1-4453-b09f-1a34aa60a45f",
+          "role": "Designer",
+          "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+          "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+          "sharer": "de51abec-24d3-4abd-94b8-5ff7a2129ebd"
+        }
+      ],
+      "externalReferences": [
+        {
+          "applicationName": "eView",
+          "externalId": "9e92f700-b81f-45d8-81d6-f1226557adc0",
+          "externalUrl": "https://eview.dev.eplan.global?project_property=10000&organizationid=6d6cb5cd-90b8-4f86-b173-828dbf6b9b12&project_value=ESS_Sample_Project_Veh"
+        }
+      ]
+    },
+    {
+      "name": "new-tiny-project",
+      "id": "db49029c-83c8-44b2-9987-3007ed07ecbc",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "creationDate": "2021-03-01T10:33:32.967925Z",
+      "lastEdited": "2021-03-01T11:37:51.7067493Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "isSharedProject": false,
+      "blobInfos": [
+        {
+          "name": "new-tiny-project.epp",
+          "date": "2021-03-01T10:38:47.7357677Z",
+          "size": 30652,
+          "isDownloadAble": false
+        },
+        {
+          "name": "new-tiny-project.zw1",
+          "date": "2021-03-01T11:37:51.4593174Z",
+          "size": 17208417,
+          "isDownloadAble": true
+        }
+      ],
+      "externalReferences": [
+        {
+          "applicationName": "eView",
+          "externalId": "bb350def-8b97-4386-8daf-52a7ed44c0fc",
+          "externalUrl": "https://eviewservicereview.dev.eplan.global/api/v1/projects/bb350def-8b97-4386-8daf-52a7ed44c0fc"
+        }
+      ],
+      "platformMetaData": {
+        "name": "new-tiny-project",
+        "isDownloadAble": true,
+        "type": "Project",
+        "mainSchemeVersion": {
+          "productionVersion": "2.9",
+          "size": 17208417
+        }
+      }
+    },
+    {
+      "name": "ESS_Sample_Project",
+      "id": "406f245f-06d3-4944-9088-e03d92e17576",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "creationDate": "2021-03-16T13:56:56.1225725Z",
+      "lastEdited": "2021-03-16T13:56:56.1225833Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "isSharedProject": false,
+      "blobInfos": [
+        {
+          "name": "ESS_Sample_Project.zw1",
+          "date": "2021-03-16T13:58:05.767663Z",
+          "size": 75146199,
+          "isDownloadAble": true
+        },
+        {
+          "name": "ESS_Sample_Project.epp",
+          "date": "2021-03-16T14:14:52.9731804Z",
+          "size": 21057776,
+          "isDownloadAble": false
+        }
+      ],
+      "externalReferences": [
+        {
+          "applicationName": "eView",
+          "externalId": "f1075782-4f5e-4676-9923-982c35a5ede7",
+          "externalUrl": "https://eviewservicetopic9.dev.eplan.global/api/v1/projects/f1075782-4f5e-4676-9923-982c35a5ede7"
+        }
+      ],
+      "platformMetaData": {
+        "name": "ESS_Sample_Project",
+        "isDownloadAble": true,
+        "type": "Project",
+        "mainSchemeVersion": {
+          "productionVersion": "2.9",
+          "size": 75146199
+        }
+      }
+    },
+    {
+      "name": "EPLAN-DEMO",
+      "id": "2c6ae79b-954e-44d0-affe-33353eacca22",
+      "projectFullPath": "/",
+      "userIdentityInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "creationDate": "2021-03-16T14:50:48.2365501Z",
+      "lastEdited": "2021-03-16T14:50:48.2365624Z",
+      "lastEditorInformation": {
+        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+      },
+      "isSharedProject": false,
+      "blobInfos": [
+        {
+          "name": "EPLAN-DEMO.zw1",
+          "date": "2021-03-16T14:51:22.6855894Z",
+          "size": 36824543,
+          "isDownloadAble": true
+        }
+      ],
+      "platformMetaData": {
+        "name": "EPLAN-DEMO",
+        "isDownloadAble": true,
+        "type": "Project",
+        "mainSchemeVersion": {
+          "productionVersion": "2.9",
+          "size": 36824543
+        }
+      }
+    }
+  ],
   "childFolders": [
     {
       "name": "GOU",
@@ -19,7 +293,56 @@
       "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
       "displayType": "Folder",
       "projectIds": ["0c6a3091-2ddd-4b95-b3d9-16d0016d927f"],
-      "projects": [],
+      "projects": [
+        {
+          "name": "new-tiny-project",
+          "id": "0c6a3091-2ddd-4b95-b3d9-16d0016d927f",
+          "projectFullPath": "/GOU/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2021-03-01T11:24:56.9272586Z",
+          "lastEdited": "2021-03-17T15:57:29.7761887Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [
+            {
+              "name": "new-tiny-project.epp",
+              "date": "2021-03-01T11:27:03.6762823Z",
+              "size": 30652,
+              "isDownloadAble": false
+            },
+            {
+              "name": "new-tiny-project.zw1",
+              "date": "2021-03-17T15:57:29.6646789Z",
+              "size": 17464550,
+              "isDownloadAble": true
+            }
+          ],
+          "externalReferences": [
+            {
+              "applicationName": "eView",
+              "externalId": "8f1f9e67-07b9-499a-b917-353653032784",
+              "externalUrl": "https://eviewservicereview.dev.eplan.global/api/v1/projects/8f1f9e67-07b9-499a-b917-353653032784"
+            }
+          ],
+          "platformMetaData": {
+            "name": "new-tiny-project",
+            "isDownloadAble": true,
+            "type": "Project",
+            "mainSchemeVersion": {
+              "productionVersion": "2.9",
+              "size": 17464550
+            }
+          }
+        }
+      ],
       "childFolders": [
         {
           "name": "TEST",
@@ -27,7 +350,56 @@
           "parentId": "6c607342-ae7c-4684-a3ed-e0244e4d02dc",
           "displayType": "Folder",
           "projectIds": ["530438cb-29cd-429a-b57f-86237b1aede5"],
-          "projects": [],
+          "projects": [
+            {
+              "name": "new-tiny-project",
+              "id": "530438cb-29cd-429a-b57f-86237b1aede5",
+              "projectFullPath": "/GOU/TEST/",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+                "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+              },
+              "creationDate": "2021-03-01T11:13:02.4937156Z",
+              "lastEdited": "2021-03-01T11:13:02.4937203Z",
+              "lastEditorInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+                "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+              },
+              "isSharedProject": false,
+              "blobInfos": [
+                {
+                  "name": "new-tiny-project.zw1",
+                  "date": "2021-03-01T11:13:16.5102151Z",
+                  "size": 17208418,
+                  "isDownloadAble": true
+                },
+                {
+                  "name": "new-tiny-project.epp",
+                  "date": "2021-03-01T11:13:41.0175873Z",
+                  "size": 30652,
+                  "isDownloadAble": false
+                }
+              ],
+              "externalReferences": [
+                {
+                  "applicationName": "eView",
+                  "externalId": "b5aa56d9-48d6-4583-aedf-025f51d95ff1",
+                  "externalUrl": "https://eviewservicereview.dev.eplan.global/api/v1/projects/b5aa56d9-48d6-4583-aedf-025f51d95ff1"
+                }
+              ],
+              "platformMetaData": {
+                "name": "new-tiny-project",
+                "isDownloadAble": true,
+                "type": "Project",
+                "mainSchemeVersion": {
+                  "productionVersion": "2.9",
+                  "size": 17208418
+                }
+              }
+            }
+          ],
           "childFolders": [],
           "creationDate": "2020-09-10T08:12:19.5017198Z",
           "userIdentityInformation": {
@@ -58,7 +430,47 @@
                   "parentId": "f18126b0-54e0-4e98-946f-d340eac73f4d",
                   "displayType": "Folder",
                   "projectIds": ["2bcb113f-8a11-412d-9158-49728f29a5d3"],
-                  "projects": [],
+                  "projects": [
+                    {
+                      "name": "new-prj",
+                      "id": "2bcb113f-8a11-412d-9158-49728f29a5d3",
+                      "projectFullPath": "/GOU/TEST2/TEST3/TEST4/",
+                      "userIdentityInformation": {
+                        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+                        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+                      },
+                      "creationDate": "2020-11-03T08:05:53.2749713Z",
+                      "lastEdited": "2020-11-03T08:05:53.2749742Z",
+                      "lastEditorInformation": {
+                        "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                        "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+                        "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+                      },
+                      "isSharedProject": false,
+                      "blobInfos": [
+                        {
+                          "name": "new-prj.zw1",
+                          "date": "2020-11-03T08:05:55.5638112Z",
+                          "size": 16628331,
+                          "isDownloadAble": true
+                        },
+                        {
+                          "name": "new-prj.epp",
+                          "date": "2020-11-03T08:06:17.8677026Z",
+                          "size": 47423,
+                          "isDownloadAble": false
+                        }
+                      ],
+                      "externalReferences": [
+                        {
+                          "applicationName": "eView",
+                          "externalId": "5a8971f5-054d-456d-8ed7-20164cc5bd7e",
+                          "externalUrl": "https://cs2-eviewservice-devreview0-westeurope-wa.azurewebsites.net/api/v1/projects/5a8971f5-054d-456d-8ed7-20164cc5bd7e"
+                        }
+                      ]
+                    }
+                  ],
                   "childFolders": [
                     {
                       "name": "TEST5",
@@ -348,7 +760,35 @@
       "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
       "displayType": "Folder",
       "projectIds": ["aaa6fefc-30ca-40cd-b5d8-baa8bec0b843"],
-      "projects": [],
+      "projects": [
+        {
+          "name": "micro1",
+          "id": "aaa6fefc-30ca-40cd-b5d8-baa8bec0b843",
+          "projectFullPath": "/PELTNERT/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2020-09-28T09:38:25.1920579Z",
+          "lastEdited": "2020-09-28T09:38:25.1920608Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [],
+          "sharingInfos": [],
+          "externalReferences": [
+            {
+              "applicationName": "eView",
+              "externalId": "d5e77b3f-34d8-4d7a-a7aa-4ef55655e919",
+              "externalUrl": null
+            }
+          ]
+        }
+      ],
       "childFolders": [],
       "creationDate": "2020-09-11T11:45:09.8415615Z",
       "userIdentityInformation": {
@@ -484,7 +924,43 @@
       "parentId": "9a6de92a-5e6e-46c3-b886-93ec6cf56085",
       "displayType": "Folder",
       "projectIds": ["f8c55ca1-658a-4f9c-81c0-fe3719f7978f"],
-      "projects": [],
+      "projects": [
+        {
+          "name": "new-tiny-project",
+          "id": "f8c55ca1-658a-4f9c-81c0-fe3719f7978f",
+          "projectFullPath": "/QA/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2021-03-17T15:52:17.1153814Z",
+          "lastEdited": "2021-03-17T15:52:17.1153874Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [
+            {
+              "name": "new-tiny-project.zw1",
+              "date": "2021-03-17T15:52:20.0706271Z",
+              "size": 17464550,
+              "isDownloadAble": true
+            }
+          ],
+          "platformMetaData": {
+            "name": "new-tiny-project",
+            "isDownloadAble": true,
+            "type": "Project",
+            "mainSchemeVersion": {
+              "productionVersion": "2.9",
+              "size": 17464550
+            }
+          }
+        }
+      ],
       "childFolders": [],
       "creationDate": "2020-09-28T11:35:20.8488347Z",
       "userIdentityInformation": {
@@ -534,7 +1010,173 @@
         "e12d8dc4-9979-48b9-92a5-6736777ceddd",
         "fad6c328-ff06-4de6-a869-d2bfea083f85"
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "ESS_Sample_Project",
+          "id": "4531e79b-8ea2-4a47-a15d-d81a0a83bc82",
+          "projectFullPath": "/LAG/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2021-03-09T08:15:44.3228604Z",
+          "lastEdited": "2021-03-18T13:54:25.0497632Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [
+            {
+              "name": "ESS_Sample_Project.zw1",
+              "date": "2021-03-18T13:54:23.8667814Z",
+              "size": 75571648,
+              "isDownloadAble": true
+            },
+            {
+              "name": "ESS_Sample_Project.zw1.externals",
+              "date": "2021-03-18T13:54:24.8808388Z",
+              "size": 84394,
+              "isDownloadAble": true
+            },
+            {
+              "name": "ESS_Sample_Project.epp",
+              "date": "2021-03-18T14:19:59.3554408Z",
+              "size": 79535722,
+              "isDownloadAble": false
+            }
+          ],
+          "externalReferences": [
+            {
+              "applicationName": "eView",
+              "externalId": "8e42c450-8d26-4c39-b3f3-ad0b73c68497",
+              "externalUrl": "https://eviewservicetopic9.dev.eplan.global/api/v1/projects/8e42c450-8d26-4c39-b3f3-ad0b73c68497"
+            }
+          ],
+          "platformMetaData": {
+            "name": "ESS_Sample_Project",
+            "isDownloadAble": true,
+            "type": "Project",
+            "mainSchemeVersion": {
+              "productionVersion": "2.9",
+              "size": 75571648
+            }
+          }
+        },
+        {
+          "name": "EPLAN-DEMO",
+          "id": "f56f379f-ce3f-4fd5-b481-4cbd5dc01956",
+          "projectFullPath": "/LAG/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2021-03-17T14:20:09.0046206Z",
+          "lastEdited": "2021-03-17T14:20:09.0046302Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [
+            {
+              "name": "EPLAN-DEMO.zw1",
+              "date": "2021-03-17T14:20:38.9840291Z",
+              "size": 36824526,
+              "isDownloadAble": true
+            }
+          ],
+          "platformMetaData": {
+            "name": "EPLAN-DEMO",
+            "isDownloadAble": true,
+            "type": "Project",
+            "mainSchemeVersion": {
+              "productionVersion": "2.9",
+              "size": 36824526
+            }
+          }
+        },
+        {
+          "name": "M.A902_PTT",
+          "id": "e12d8dc4-9979-48b9-92a5-6736777ceddd",
+          "projectFullPath": "/LAG/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2021-03-18T09:15:27.3845302Z",
+          "lastEdited": "2021-03-18T14:47:58.1469568Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [],
+          "platformMetaData": {
+            "name": "M.A902_PTT",
+            "isDownloadAble": true,
+            "type": "Project",
+            "mainSchemeVersion": {
+              "productionVersion": "2.9",
+              "size": 200130397
+            }
+          }
+        },
+        {
+          "name": "new-tiny-project",
+          "id": "fad6c328-ff06-4de6-a869-d2bfea083f85",
+          "projectFullPath": "/LAG/",
+          "userIdentityInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "creationDate": "2021-03-18T14:08:48.173802Z",
+          "lastEdited": "2021-03-18T14:42:26.3073788Z",
+          "lastEditorInformation": {
+            "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+            "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+            "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9"
+          },
+          "isSharedProject": false,
+          "blobInfos": [
+            {
+              "name": "new-tiny-project-2020.zw1",
+              "date": "2021-03-18T14:42:26.2017071Z",
+              "size": 17464547,
+              "isDownloadAble": true
+            },
+            {
+              "name": "new-tiny-project.epp",
+              "date": "2021-03-18T14:43:02.5596189Z",
+              "size": 344656,
+              "isDownloadAble": false
+            }
+          ],
+          "externalReferences": [
+            {
+              "applicationName": "eView",
+              "externalId": "184d40e3-4b82-46d3-a2e8-2e59e490d847",
+              "externalUrl": "https://eviewservicereview.dev.eplan.global/api/v1/projects/184d40e3-4b82-46d3-a2e8-2e59e490d847"
+            }
+          ],
+          "platformMetaData": {
+            "name": "new-tiny-project-2020",
+            "isDownloadAble": true,
+            "type": "Project",
+            "mainSchemeVersion": {
+              "productionVersion": "2.9",
+              "size": 17464547
+            }
+          }
+        }
+      ],
       "childFolders": [
         {
           "name": "lag-subfolder",
@@ -588,7 +1230,52 @@
           "parentId": "8d489ec0-b99b-4f76-8cdb-85fe79aa224a",
           "displayType": "Folder",
           "projectIds": ["71014322-6df1-4124-9f31-f605c3c2c886"],
-          "projects": [],
+          "projects": [
+            {
+              "name": "Klemme1",
+              "id": "71014322-6df1-4124-9f31-f605c3c2c886",
+              "projectFullPath": "/LAP/400 V Versorgung Gleichrichter/",
+              "userIdentityInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+                "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+              },
+              "creationDate": "2020-10-16T11:10:43.6991686Z",
+              "lastEdited": "2020-10-16T11:10:43.6991728Z",
+              "lastEditorInformation": {
+                "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                "organizationUserId": "764c56e8-29f9-4321-a6e7-2ff1eea316a5",
+                "userId": "b8bc3d92-264e-4779-ab45-39aba419708c"
+              },
+              "isSharedProject": false,
+              "blobInfos": [],
+              "sharingInfos": [
+                {
+                  "userId": "e4775632-9109-4c14-a8d7-0786979d9088",
+                  "projectId": "71014322-6df1-4124-9f31-f605c3c2c886",
+                  "role": "Designer",
+                  "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                  "organizationUserId": "de51abec-24d3-4abd-94b8-5ff7a2129ebd",
+                  "sharer": "b8bc3d92-264e-4779-ab45-39aba419708c"
+                },
+                {
+                  "userId": "270c9a46-94f2-45ab-a332-8ba40ca4bac9",
+                  "projectId": "71014322-6df1-4124-9f31-f605c3c2c886",
+                  "role": "Designer",
+                  "organizationId": "6d6cb5cd-90b8-4f86-b173-828dbf6b9b12",
+                  "organizationUserId": "509fe4c8-191a-44aa-8368-3931ad73a528",
+                  "sharer": "b8bc3d92-264e-4779-ab45-39aba419708c"
+                }
+              ],
+              "externalReferences": [
+                {
+                  "applicationName": "eView",
+                  "externalId": "01e91244-e4e4-47dc-9e1a-8d958946d908",
+                  "externalUrl": "https://eviewreview.dev.eplan.global?project_property=10000&organizationid=6d6cb5cd-90b8-4f86-b173-828dbf6b9b12&project_value=Klemme1"
+                }
+              ]
+            }
+          ],
           "childFolders": [
             {
               "name": "Versorgung Gleichrichter Betriebsmittelliste",

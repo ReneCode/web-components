@@ -1,15 +1,22 @@
+.navigator {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe;
+  background-color: #2c2d30;
+  color: #f0f0f0;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
 .folder {
   display: flex;
   flex-direction: row;
-  padding: 2px;
-  background-color: gray;
-  :hover {
-    cursor: pointer;
-  }
+  align-items: center;
 }
 
 .gap {
-  width: 10px;
+  width: 32px;
   background-color: transparent;
 }
 
@@ -20,8 +27,35 @@
 .project {
   display: flex;
   flex-direction: row;
-  background-color: lightgray;
-  :hover {
+  align-items: center;
+}
+
+.show-hover {
+  &:hover {
     cursor: pointer;
+    background-color: #505050;
+  }
+}
+
+.icon-btn {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+
+.icon-btn {
+  &:hover {
+    cursor: pointer;
+  }
+  svg {
+    width: 1em;
+    height: 1em;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
   }
 }

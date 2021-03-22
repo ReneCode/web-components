@@ -6,7 +6,7 @@ const Gap = ({ level }) => {
   let gaps = range(level);
 
   return (
-    <div>
+    <div class="flex-row">
       {gaps.map((e) => {
         return <div class="gap"></div>;
       })}
