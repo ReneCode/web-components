@@ -48,6 +48,7 @@ const Navigator = ({ host, token, onSelectFolder, onSelectProject }) => {
 
   return (
     <div class="navigator">
+      <p>Navigator for projects</p>
       <TreeNodes
         level={0}
         folders={root.folders}
